@@ -1,0 +1,111 @@
+ID,Name,Age,Location,Product,Category,Quantity,Price
+1.0,Alexander White,23.0,Atlanta,,,95.0,701.0
+2.0,Charlotte Jackson,51.0,New York,Gadget,A,69.0,395.0
+3.0,,,Indianapolis,Thing,B,43.0,766.0
+4.0,Sophia Anderson,37.0,Charlotte,Gadget,A,89.0,314.0
+5.0,Sophie Mitchell,37.0,Detroit,Thing,,133.0,
+6.0,Ava Jones,50.0,Phoenix,Widget,B,116.0,67.0
+7.0,William Davis,45.0,Miami,Widget,A,55.0,75.0
+8.0,Benjamin Thomas,21.0,Houston,Gadget,C,,285.0
+9.0,Matthew Hill,26.0,Philadelphia,Thing,,141.0,543.0
+10.0,Sophie Mitchell,51.0,,Thing,A,113.0,50.0
+11.0,Emma Johnson,43.0,Boston,Gadget,A,101.0,378.0
+12.0,Liam Smith,57.0,New York,Widget,A,17.0,493.0
+13.0,Liam Smith,56.0,El Paso,Thing,A,128.0,549.0
+14.0,Liam Smith,37.0,Memphis,Gadget,A,125.0,512.0
+15.0,Charlotte Jackson,59.0,Memphis,,B,68.0,162.0
+16.0,Emily Baker,35.0,Denver,,C,101.0,131.0
+17.0,Amelia Harris,27.0,,Thing,A,47.0,554.0
+18.0,Ava Jones,52.0,San Francisco,Widget,C,140.0,640.0
+19.0,Amelia Harris,38.0,Philadelphia,Thing,A,129.0,229.0
+20.0,Benjamin Thomas,21.0,Indianapolis,Widget,B,138.0,329.0
+21.0,Charlotte Jackson,,Seattle,Gadget,A,58.0,720.0
+22.0,,31.0,Houston,Thing,A,94.0,705.0
+23.0,Emma Johnson,29.0,Philadelphia,Gadget,A,36.0,458.0
+24.0,Emma Johnson,42.0,Denver,Widget,B,69.0,490.0
+25.0,Michael Lewis,20.0,Dallas,Widget,A,47.0,650.0
+26.0,Logan Turner,59.0,Houston,Gadget,B,27.0,
+,Evelyn Young,52.0,San Diego,Widget,B,,511.0
+28.0,,48.0,Indianapolis,Thing,A,111.0,669.0
+29.0,William Davis,,San Francisco,Thing,B,90.0,101.0
+30.0,Isabella Taylor,32.0,Memphis,Widget,C,,458.0
+31.0,Olivia Williams,43.0,Charlotte,,C,126.0,120.0
+32.0,Oliver Green,48.0,,Gadget,A,123.0,640.0
+33.0,Logan Turner,,Phoenix,Thing,B,21.0,
+34.0,Sophia Anderson,55.0,Indianapolis,Thing,A,40.0,788.0
+35.0,Abigail Scott,,New York,Widget,B,123.0,664.0
+36.0,Jacob Walker,44.0,Houston,Gadget,A,10.0,520.0
+37.0,Isabella Taylor,48.0,Denver,Gadget,A,57.0,
+38.0,Mia Martinez,21.0,San Francisco,Widget,C,113.0,92.0
+39.0,Olivia Williams,57.0,New York,Gadget,A,37.0,688.0
+,Aiden Adams,56.0,Atlanta,Gadget,C,64.0,322.0
+41.0,Benjamin Thomas,51.0,Chicago,Gadget,A,140.0,128.0
+,Jacob Walker,39.0,Phoenix,,B,23.0,496.0
+43.0,Aiden Adams,30.0,Seattle,Thing,C,38.0,636.0
+,Amelia Harris,54.0,Dallas,Widget,A,116.0,149.0
+45.0,Olivia Williams,,San Antonio,Widget,C,25.0,130.0
+46.0,Emily Baker,,Seattle,Thing,B,,4906.0
+,Amelia Harris,40.0,Denver,Thing,B,134.0,448.0
+48.0,,48.0,San Antonio,Thing,C,12.0,127.0
+49.0,,43.0,Atlanta,Widget,,38.0,222.0
+,Mia Martinez,20.0,Memphis,Widget,C,88.0,469.0
+51.0,Charlotte Jackson,36.0,Detroit,Thing,A,51.0,356.0
+52.0,Elizabeth King,25.0,Phoenix,Thing,C,,699.0
+53.0,,24.0,Jacksonville,Thing,B,,608.0
+54.0,Matthew Hill,20.0,Detroit,Thing,,74.0,715.0
+55.0,Oliver Green,31.0,San Francisco,Widget,C,,453.0
+56.0,Benjamin Thomas,50.0,San Jose,Gadget,,19.0,
+57.0,,48.0,Detroit,Gadget,C,122.0,110.0
+58.0,Daniel King,20.0,,,C,43.0,640.0
+59.0,Evelyn Young,,,Gadget,B,78.0,126.0
+60.0,,,Charlotte,Widget,A,58.0,249.0
+61.0,James Wilson,40.0,San Diego,Widget,C,86.0,418.0
+62.0,Jacob Walker,56.0,Denver,Gadget,B,139.0,
+63.0,Daniel King,43.0,Chicago,,C,108.0,293.0
+64.0,Amelia Harris,43.0,San Francisco,Widget,C,105.0,709.0
+65.0,James Wilson,43.0,Jacksonville,Widget,C,63.0,473.0
+66.0,Olivia Williams,,Denver,Widget,C,126.0,316.0
+67.0,Noah Brown,29.0,Jacksonville,Thing,C,26.0,433.0
+68.0,Isabella Taylor,42.0,San Jose,Gadget,,95.0,
+69.0,Elizabeth King,41.0,,Widget,A,37.0,210.0
+,Emily Baker,57.0,Memphis,Widget,C,17.0,277.0
+71.0,Emily Baker,31.0,Phoenix,Gadget,C,,255.0
+72.0,Daniel King,24.0,,Widget,B,139.0,
+73.0,Logan Turner,35.0,El Paso,Widget,C,107.0,
+74.0,Ava Jones,24.0,Los Angeles,Widget,C,,653.0
+75.0,,58.0,Charlotte,Widget,C,97.0,102.0
+76.0,James Wilson,47.0,Memphis,Thing,C,110.0,443.0
+77.0,Charlotte Jackson,42.0,El Paso,Thing,C,112.0,
+78.0,Emily Baker,30.0,Atlanta,Widget,B,137.0,750.0
+79.0,Harper Clark,31.0,San Antonio,Widget,C,91.0,299.0
+80.0,Liam Smith,34.0,Philadelphia,Gadget,B,126.0,611.0
+81.0,Jacob Walker,54.0,Memphis,Gadget,B,63.0,520.0
+82.0,Emily Baker,43.0,Charlotte,,C,85.0,718.0
+83.0,Sophia Anderson,38.0,Los Angeles,Gadget,,770.0,1856.0
+84.0,Ava Jones,59.0,El Paso,Thing,A,16.0,420.0
+85.0,Jacob Walker,22.0,San Antonio,Thing,C,80.0,178.0
+86.0,William Davis,30.0,Memphis,Gadget,C,110.0,298.0
+87.0,Logan Turner,35.0,San Antonio,Widget,A,99.0,168.0
+88.0,Oliver Green,26.0,Houston,Thing,B,81.0,268.0
+89.0,Emma Johnson,23.0,Memphis,Gadget,A,609.0,4538.0
+90.0,Elizabeth King,53.0,Indianapolis,Gadget,A,547.0,1282.0
+,Alexander White,24.0,Boston,Thing,C,91.0,506.0
+92.0,Jacob Walker,56.0,Charlotte,Gadget,A,73.0,284.0
+,Ethan Martin,23.0,,Thing,,90.0,106.0
+94.0,,48.0,Chicago,Thing,A,94.0,367.0
+95.0,Sophie Mitchell,58.0,El Paso,Gadget,C,65.0,364.0
+96.0,Olivia Williams,30.0,,,C,107.0,492.0
+97.0,Emily Baker,24.0,San Jose,Widget,C,79.0,769.0
+98.0,Elizabeth King,59.0,Seattle,Gadget,C,133.0,158.0
+99.0,Evelyn Young,31.0,New York,Widget,C,92.0,91.0
+100.0,Benjamin Thomas,30.0,Atlanta,Thing,A,547.0,2863.0
+88.0,Oliver Green,26.0,,Thing,B,81.0,268.0
+37.0,Isabella Taylor,48.0,Denver,Gadget,A,57.0,645.0
+85.0,Jacob Walker,22.0,San Antonio,Thing,C,80.0,178.0
+57.0,Emma Johnson,48.0,Detroit,Gadget,C,122.0,110.0
+34.0,Sophia Anderson,55.0,Indianapolis,Thing,A,,788.0
+41.0,Benjamin Thomas,51.0,Chicago,Gadget,,140.0,128.0
+89.0,Emma Johnson,23.0,Memphis,Gadget,A,60.0,65.0
+,Isabella Taylor,58.0,Charlotte,Widget,C,97.0,102.0
+62.0,Jacob Walker,56.0,Denver,Gadget,B,139.0,150.0
+88.0,Oliver Green,26.0,Houston,,B,81.0,268.0
